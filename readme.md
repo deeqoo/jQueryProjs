@@ -1,1 +1,1 @@
-jQuery Projects - CodeAcademy 
+Simple jQuery Projects  
